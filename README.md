@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Desimo</h1>
 <h3 align="center">A Microsoft Dynamics Developer</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3simo&label=Profile%20views&color=0e75b6&style=flat" alt="d3simo" /> </p>
 
 - 🌱 I’m currently learning **X++, Java**
 
@@ -14,5 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d3simo&label=Profile%20views&color=0e75b6&style=flat" alt="d3simo" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d3simo&" alt="d3simo" /></p>
