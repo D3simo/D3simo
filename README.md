@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Desimo</h1>
 <h3 align="center">A Microsoft Dynamics Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3simo&label=Profile%20views&color=0e75b6&style=flat" alt="d3simo" /> </p>
 
