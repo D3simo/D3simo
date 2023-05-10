@@ -2,7 +2,7 @@
 <h3 align="center">A Microsoft Dynamics Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **X++, Java**
+- 🌱 I’m currently learning **X++, Java, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
